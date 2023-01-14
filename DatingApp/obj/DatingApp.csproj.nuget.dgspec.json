@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp\\DatingApp\\DatingApp.csproj": {}
+    "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp-rider\\DatingApp\\DatingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp\\DatingApp\\DatingApp.csproj": {
+    "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp-rider\\DatingApp\\DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "projectUniqueName": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp-rider\\DatingApp\\DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "projectPath": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp-rider\\DatingApp\\DatingApp.csproj",
         "packagesPath": "C:\\Users\\haida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp\\DatingApp\\obj\\",
+        "outputPath": "C:\\Users\\haida\\Downloads\\My Projects\\DatingApp-rider\\DatingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
