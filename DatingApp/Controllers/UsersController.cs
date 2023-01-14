@@ -4,11 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.Controllers;
-
-[ApiController]
-[Route("api/[controller]")]
-
-public class UsersController : ControllerBase
+public class UsersController : BaseApiController
 {
     private readonly DataContext context;
     public UsersController(DataContext context)
